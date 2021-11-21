@@ -4,7 +4,7 @@
   <img align="left" alt="PhyoPyaeSoneHan's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://instagram.com/phyo_han_ig" target="_blank">
-  <img align="left" alt="PhyoPyaeSoneHan's Instagram" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="PhyoPyaeSoneHan's Instagram" width="26px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/Kiev19" target="_blank">
   <img align="left" alt="PhyoPyaeSoneHan's Facebook" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
