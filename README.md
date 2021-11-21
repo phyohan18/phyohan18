@@ -1,13 +1,13 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=24&width=500&height=52&lines=Hi+There+%F0%9F%91%8B%2C+I'm+PhyoPyaeSone+Han!)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/phyopyaesonehan" target="_blank">
-  <img align="left" alt="PhyoPyaeSoneHan's LinkedIN" width="26px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="PhyoPyaeSoneHan's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://instagram.com/phyo_han_ig" target="_blank">
-  <img align="left" alt="PhyoPyaeSoneHan's Instagram" width="26px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="PhyoPyaeSoneHan's Instagram" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/Kiev19" target="_blank">
-  <img align="left" alt="PhyoPyaeSoneHan's Facebook" width="26px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="PhyoPyaeSoneHan's Facebook" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=phyohan18&&style=flat-rounded)  
