@@ -19,7 +19,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> More About Me:
     
-- 💻 &nbsp; I'm currently working on **LEMP & MERN Stack**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 &nbsp; I'm currently working on **LEMP & MERN Stacks**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨‍💻 &nbsp; Most of my **projects** are available on [Github](https://github.com/phyohan18?tab=repositories)
 - 📝 &nbsp; Checkout my [portfolio](https://phyohan18.github.io/) <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="23" /> 
 - ⚡ &nbsp; Fun fact: I love finding **vulnerabilities of a website**
