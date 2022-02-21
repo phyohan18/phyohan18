@@ -13,13 +13,13 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=phyohan18&&style=flat-rounded)  
 
 
-<br>A passionate full-stack developer from Yangon, Myanmar who loves Laravel and the internet sphere.A whizz at website and UI design, back-end development, penetration testing, and WordPress. Always on the lookout for exciting projects to work on.  
+<br>A passionate full-stack developer from Yangon, Myanmar who loves Java Script and the internet sphere. A whizz at website and UI design, back-end development, penetration testing, and WordPress. Always on the lookout for exciting projects to work on.
   
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="40%"/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> More About Me:
     
-- 💻 &nbsp; I'm currently working on **LEMP Stack**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 &nbsp; I'm currently working on **LEMP & MERN Stack**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨‍💻 &nbsp; Most of my **projects** are available on [Github](https://github.com/phyohan18?tab=repositories)
 - 📝 &nbsp; Checkout my [portfolio](https://phyohan18.github.io/) <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="23" /> 
 - ⚡ &nbsp; Fun fact: I love finding **vulnerabilities of a website**
