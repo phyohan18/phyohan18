@@ -43,10 +43,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /> 
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />  
 </p>
 
 <br>
