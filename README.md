@@ -7,7 +7,8 @@
   <img align="left" alt="PhyoPyaeSoneHan's Instagram" width="26px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/Kiev19" target="_blank">
-  <img align="left" alt="PhyoPyaeSoneHan's Facebook" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="PhyoPyaeSoneHan's Facebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1024px-2021_Facebook_icon.svg.png" />
+  
 </a>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=phyohan18&&style=flat-rounded)  
