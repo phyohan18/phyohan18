@@ -1,12 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=24&width=500&height=52&lines=Hi+There+%F0%9F%91%8B%2C+I'm+PhyoPyaeSone+Han!)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/phyopyaesonehan" target="_blank">
-  <img align="left" alt="PhyoPyaeSoneHan's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="PhyoPyaeSoneHan's LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://instagram.com/phyo_han_ig" target="_blank">
+<a href="https://www.instagram.com/kiev_han/" target="_blank">
   <img align="left" alt="PhyoPyaeSoneHan's Instagram" width="26px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/Kiev19" target="_blank">
+<a href="https://www.facebook.com/phyohan00" target="_blank">
   <img align="left" alt="PhyoPyaeSoneHan's Facebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1024px-2021_Facebook_icon.svg.png" />
   
 </a>
