@@ -11,7 +11,7 @@
   
 </a>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=phyohan18&&style=flat-rounded)  
+![Profile views counter](https://komarev.com/ghpvc/?username=phyohan18&&style=flat-square)  
 
 
 <br>A passionate full-stack developer from Yangon, Myanmar who loves Java Script and the internet sphere. A whizz at website and UI design, back-end development, penetration testing, and WordPress. Always on the lookout for exciting projects to work on.
