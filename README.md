@@ -24,7 +24,7 @@
 - 👨‍💻 &nbsp; Most of my **projects** are available on [Github](https://github.com/phyohan18?tab=repositories)
 - 📝 &nbsp; Checkout my [portfolio](https://phyohan18.github.io/) <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="23" /> 
 - ⚡ &nbsp; Fun fact: I love finding **vulnerabilities of a website**
-- 📫 &nbsp; How to reach me: say <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"> to phyohan1234@gmail.com
+- 📫 &nbsp; How to reach me: say <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"> to sonehan.dev@gmail.com
 
 <br>
 
