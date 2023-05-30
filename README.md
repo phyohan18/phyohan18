@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=24&width=500&height=52&lines=Hi+There+%F0%9F%91%8B%2C+I'm+PhyoPyaeSone+Han!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=24&width=500&height=52&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Phyo+Pyae+Sone+Han!)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/phyopyaesonehan" target="_blank">
   <img align="left" alt="PhyoPyaeSoneHan's LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
